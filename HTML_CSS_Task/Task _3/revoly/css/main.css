@@ -1,0 +1,7 @@
+body{margin:0;padding:0;}
+.box{border:1px solid #999;background-color: #ddd;margin:20px;position: relative;overflow: hidden;}
+.box .left{float:left;padding:20px; width:220px;}
+.box .right {padding:20px;width:140px;}
+.box .middle{float: left;padding-top:20px;margin:0px 140px 0px 220px;width:60%;}
+.box .right ul{margin:0;}
+.box .right ul li {list-style-type: none;}
