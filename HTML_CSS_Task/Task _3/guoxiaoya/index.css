@@ -1,0 +1,10 @@
+body{margin:0px;padding:20px;}
+section, header, article, aside{padding:20px;border:1px solid #999;background-color: #fff;}
+section{background-color: #eee;overflow: auto;}
+section header{position:relative;width:160px;float:left;}
+section header .title{position:absolute;right:5px;}
+section aside{width:80px;float:right;}
+section aside img{margin-bottom:20px;}
+section aside img:last-child{margin-bottom:0;}
+section article{margin:0 140px 0 220px;}
+section .clear{clear:both;}
