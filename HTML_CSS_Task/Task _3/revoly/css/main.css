@@ -1,0 +1,5 @@
+body{margin:0;}
+.box{padding:20px;}
+.box .left{float: left;width:220px;}
+.box .middle{margin-left:220px;margin-right:160px;}
+.box .right{width:160px;float:right;}
